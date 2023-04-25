@@ -1,0 +1,7 @@
+開発する際に私が作成した、ソースコードのみを収録しています。
+「MySourceCosde」の直下に作成したソースコードがあります。
+また、その他にも「Sakuhin3SetumeiSiryou.pdf」という名の作品説明資料のファイルも収録しています。
+
+もし、プロジェクトフォルダや動画、実行するためのExeFileをご覧になりたい場合は私のGoogleDriveに保存されていますのでそこからダウンロードお願いします。
+以下のURLよりGoogleDriveに移動できます。
+URL：https://drive.google.com/drive/folders/1sCpmf7GuvEpHVsMFeA7oBVPJhYdvntzQ?usp=share_link
